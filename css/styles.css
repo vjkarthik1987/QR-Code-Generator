@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+.main-container {
+    background-color:hsl(212, 45%, 89%);
+    border: 0px;
+    padding-top: 85px;
+    padding-bottom: 85px;
+}
+
+.qr-code-holder {
+    height: 70vh;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+    width: 300px;
+    margin: auto;
+    padding-top: 20px;
+}
+
+img {
+    width: 90%;
+    margin: auto;
+}
+
+p {
+    margin: 0;
+    font-size: 15px;
+    font-family: 'Outfit', sans-serif;
+    margin: 10px 20px;
+}
+
+.heading {
+    font-weight: 700;
+}
